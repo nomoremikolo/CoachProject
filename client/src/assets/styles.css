@@ -1,0 +1,7 @@
+.parrent:hover button{
+    display: inline !important;
+}
+
+.hoverpointer:hover{
+    cursor: pointer;
+}
